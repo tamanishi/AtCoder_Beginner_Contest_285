@@ -1,0 +1,3 @@
+[submodule "e_edge_checker_2"]
+	path = e_edge_checker_2
+	url = git@github.com:tamanishi/a_edge_checker_2.git
