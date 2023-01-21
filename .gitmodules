@@ -1,3 +1,6 @@
 [submodule "e_edge_checker_2"]
 	path = e_edge_checker_2
 	url = git@github.com:tamanishi/a_edge_checker_2.git
+[submodule "b_longest_uncommon_prefix"]
+	path = b_longest_uncommon_prefix
+	url = git@github.com:tamanishi/b_longest_uncommon_prefix.git
