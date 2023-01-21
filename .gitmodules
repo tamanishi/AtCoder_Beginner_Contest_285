@@ -7,3 +7,6 @@
 [submodule "c_abc285_brutmhyhiizp"]
 	path = c_abc285_brutmhyhiizp
 	url = git@github.com:tamanishi/c_abc285_brutmhyhiizp.git
+[submodule "d_change_usernames"]
+	path = d_change_usernames
+	url = git@github.com:tamanishi/d_change_usernames.git
