@@ -4,3 +4,6 @@
 [submodule "b_longest_uncommon_prefix"]
 	path = b_longest_uncommon_prefix
 	url = git@github.com:tamanishi/b_longest_uncommon_prefix.git
+[submodule "c_abc285_brutmhyhiizp"]
+	path = c_abc285_brutmhyhiizp
+	url = git@github.com:tamanishi/c_abc285_brutmhyhiizp.git
